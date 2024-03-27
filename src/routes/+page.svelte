@@ -144,7 +144,7 @@
                         <div class="h-full flex flex-col justify-center items-start px-10">
                             <!-- Character Image and Description -->
                             
-                            <p class="font- text-white uppercase text-xl mb-5">
+                            <p class="text-4xl font-semibold mb-5">
                                 .\ This is Ainekko, she is a demon cat.
                                 
                             </p>
